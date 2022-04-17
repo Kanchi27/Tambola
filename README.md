@@ -1,1 +1,13 @@
-Please checkout `dev` branch to get the current code in development.
+# Tambola
+
+Install all dependencies:
+
+```
+npm install
+```
+
+Build React project:
+
+```
+npm run build
+```
